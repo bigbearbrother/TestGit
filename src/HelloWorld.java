@@ -7,4 +7,5 @@ public class HelloWorld {
     private Integer age;
     private Integer id;
     private String eamil;
+    private String teas;
 }
