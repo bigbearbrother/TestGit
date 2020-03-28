@@ -4,5 +4,6 @@
  */
 public class T2 {
     String name;
-    int age；
+    int age;
+    String z;
 }
