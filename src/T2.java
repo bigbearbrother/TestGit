@@ -7,5 +7,5 @@ public class T2 {
     int age;
     int n;
     int a;
-    int i;
+
 }
