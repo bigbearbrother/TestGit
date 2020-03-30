@@ -4,8 +4,5 @@
  */
 public class T2 {
     String name;
-    int age;
-    int n;
-    int a;
 
 }
